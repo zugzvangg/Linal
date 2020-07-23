@@ -1,1 +1,1 @@
-import * from telebot
+print(1)
