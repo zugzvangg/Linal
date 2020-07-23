@@ -25,6 +25,7 @@ public:
         this->c[2] = a33;
         //задание непосредственно параметрами
     }
+    //просто первый коммит
 
     Matrix3D operator*(const double a) {
         return {this->a[0] * a, this->a[1] * a, this->a[2] * a,
