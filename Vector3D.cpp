@@ -10,7 +10,7 @@ public:
     Vector3D() : Vector3D(0.0, 0.0, 0.0)
     {}
 // установка значений координат вектора:
-
+//try commit
     Vector3D(double x, double y, double z)
     {
         this -> x = x;
